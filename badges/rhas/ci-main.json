@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "CI main",
-  "message": "a5d4035 failing",
-  "color": "red"
+  "message": "36d931a passing",
+  "color": "brightgreen"
 }
